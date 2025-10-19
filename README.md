@@ -55,3 +55,5 @@ Provide insight into employee satisfaction and retention risks.
 
 It’s an excellent example of an Excel-based analytical dashboard for HR reporting or academic presentation.
 
+NOTE: To the get the raw data, open the POWER PIVOT option.
+
