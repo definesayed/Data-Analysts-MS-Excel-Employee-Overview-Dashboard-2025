@@ -1,10 +1,10 @@
 # Data-Analysts-MS-Excel-Employee-Overview-Dashboard-2025
-1. Dashboard Overview
+**1. Dashboard Overview**
 
 This dashboard provides a holistic view of an organization’s workforce using multiple visualizations. It combines key performance indicators (KPIs), demographic breakdowns, and trend analysis to support HR decision-making.
 At a glance, users can assess employee distribution, salary expenditure, and satisfaction metrics.
 
-2. Key Metrics (KPIs)
+**2. Key Metrics (KPIs)**
 
 At the bottom of the dashboard, two critical KPIs summarize the workforce profile:
 
@@ -14,7 +14,7 @@ Total Salary: $9,559,309
 
 These metrics provide a snapshot of the organization’s scale and total payroll cost.
 
-3. Employee Demographics
+**3. Employee Demographics**
 
 The dashboard includes several charts to present workforce composition:
 
@@ -22,7 +22,7 @@ Employee Education Level: A pie chart shows the percentage of employees across f
 
 Gender Distribution: A bar chart compares the number of male and female employees, clearly illustrating gender balance in the organization.
 
-4. Job and Work-Life Metrics
+**4. Job and Work-Life Metrics**
 
 Two bar charts provide insight into employee satisfaction and work-life balance:
 
@@ -31,7 +31,7 @@ Job Satisfaction: Displays employees categorized as High, Low, Medium, or Very H
 Work Life Balance: Shows how employees rate their work-life balance as Bad, Good, Better, or Best.
 These visuals help identify employee well-being trends and areas for improvement.
 
-5. Salary Analysis
+**5. Salary Analysis**
 
 The dashboard uses two key charts to examine compensation trends:
 
@@ -42,8 +42,7 @@ Salary by Employment Type by Year: A clustered column chart comparing salary tre
 Additionally, a Salary by Gender chart reveals how salary totals differ between male and female employees.
 
 --------------------------------------------------------------------------------------------
-
-What is the the Purpose and Who can Use this:
+***What is the the Purpose and Who can Use this:***
 
 This dashboard is intended to:
 
@@ -55,5 +54,5 @@ Provide insight into employee satisfaction and retention risks.
 
 It’s an excellent example of an Excel-based analytical dashboard for HR reporting or academic presentation.
 
-NOTE: To the get the raw data, open the POWER PIVOT option.
+***NOTE:*** In this data analysis dashboard as a data analysts want to say, trick to get the raw data, open the POWER PIVOT option.
 
